@@ -1,0 +1,21 @@
+DIFFERENT BETWEEN WINDOWS AND DOCUMENT 
+ WINDOWS
+       windows is that it is the top level of all the browser it can be used in many ways so that here in this case windows has the access and showablity of javascript to it and it is like a king
+of the website than all other things when compared to each other it can access anything using its power like html files css files,etc.as this windows considered the javascript is encrypted with it 
+many number of functions can be performed in many ways even it can also do some special actions also whenever and whereever it is needed with this power it can change anything within fraction of 
+seconds and it has sub categories to access like html css and many more by its access it can get information from html like tags from the document area.under this windows it contains a
+lots and lots of information which are already coded or programmed in the editor area.under this there is also a special thing called get elements by tag names in which it acts like the purpose of 
+getting the information or data whatever stored in that particular place and using this type of get element by tag name it can get any tag name from the html area so here we can understand that
+we can get any type of tag from the html area and we can print the same thing in java script area for example if there are two types of heading tags given in the html area means this windows can
+access easily by giving console.log(windows.document.get elements by tag name) then we get the result what we have given there in the heading tag will appear here and so if there is any two tags
+are similar to each other means then we can use the 0th value for one tag and the we modify it and then we  again can use the same process for 1st value after all modifications are done.windows as 
+the whole thing in accordance with java script it can do anything as it like and it can get information from html document area.
+ DOCUMENT
+       document comes under the area of this windows where it has a seperate storage for it this .here in this case this document also stores many types of information with it and then these 
+things are easily accessable by html files and then different types of html files and operations can be accessed here in this area of document as this comes under the windows area these two
+things are connected inter relatedly in many ways so that the html file informations are clearly stored in the document area and then this is secured under the windows section many type of 
+information can be stored in a single html file so that these type of complicated datas are also stored and displayed in this document area and then if any changes are done while coding means
+it will be exhibit the same change done in the document area this indicates that the proper work has been done in all cases of action then it also contains ao many other datas also with it.it is 
+also connected with its own html tags and elements so it is helpful in all areas of windows also.eventhough it is connected with each other like windows it can not do some particular specific
+actions by getting informations from windows section or modifying the information from windows area as it come from the sub category of windows section.in seperate while doing any programming
+in the html means when it is saved the particular information is automatically gained here by declaring some type of information in the html area.   
